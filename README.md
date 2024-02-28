@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## About Me:
+
+My name is Srideep Dornala, and I am a student at the University of California San Diego studying Computer Science.
+
 <!--
 **srideep9/srideep9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
