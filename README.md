@@ -2,19 +2,15 @@
 
 ## About Me:
 
-My name is Srideep Dornala, and I am a student at the University of California San Diego studying Computer Science.
+My name is Srideep Dornala, and I am a student at the University of California San Diego studying Computer Science projected to graduate in 2025.
 
-<!--
-**srideep9/srideep9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My interests lie in many domains of computer science, but I am most experienced in machine learning and software development. The languages I know best include Python, Java, C++, and Javascript.
 
-Here are some ideas to get you started:
+Please feel free to view my projects posted on my profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am open to collaborate on new projects, and hope to begin contributing to open source projects soon.
+
+How to reach me:
+
+https://www.linkedin.com/in/srideep-d
+https://www.instagram.com/srideep_9
